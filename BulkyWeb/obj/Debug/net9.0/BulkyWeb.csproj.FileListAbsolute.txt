@@ -267,7 +267,6 @@ D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyWeb.RazorAssemblyInfo.cs
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\bundle\BulkyWeb.styles.css
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
-D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\abj1mrxw91-c2tiyv64ts.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\zizgu2sj15-61n19gt1b8.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\8g5zvmlt5k-fh93wj2znv.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\9fiza1xi75-xtxxf3hu2r.gz
@@ -414,4 +413,5 @@ D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\BulkyWeb.sourcelink.json
+D:\Projects\Bulky\BulkyWeb\obj\Debug\net9.0\compressed\abj1mrxw91-nre2eqfer1.gz
