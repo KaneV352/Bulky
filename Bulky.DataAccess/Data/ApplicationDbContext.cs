@@ -15,6 +15,7 @@ namespace Bulky.DataAccess.Data
         public DbSet<Category> Categories { get; set; } // Automatically creates a table named Categories
         public DbSet<Product> Products { get; set; } // Automatically creates a table named Products
         public DbSet<ApplicationUser> ApplicationUsers { get; set; } // Automatically creates a table named ApplicationUsers
+        public DbSet<Company> Companies { get; set; } // Automatically creates a table named Companies
 
         // Override the OnModelCreating method to specify the table items
         protected override void OnModelCreating(ModelBuilder modelBuilder)

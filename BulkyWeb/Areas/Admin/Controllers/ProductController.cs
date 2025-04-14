@@ -28,7 +28,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         public IActionResult Upsert(int? id)
         {
-            if (id == null || id == 0)
+            if (id is null or 0)
             {
                 ProductViewModel productVM = new()
                 {

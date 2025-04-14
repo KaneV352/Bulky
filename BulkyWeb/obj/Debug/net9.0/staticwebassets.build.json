@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aCC596JA9N2816PliM4ZyzMIwtYXP2zUV2jVkZ/c23o=",
+  "Hash": "XK8zbo/V6aLjFClYWIGmZh/qybh1tSQ6Xy7K6aHXRHM=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1611,6 +1611,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5ptu6j1567-vbqdlksndo.gz",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/company#[.{fingerprint=vbqdlksndo}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "02osetvzbi",
+      "Integrity": "yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js"
     },
     {
       "Identity": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5rt5taa1gu-q2ku51ktnl.gz",
@@ -4131,6 +4152,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\ea515ba9-ae16-455f-a7fd-f46af440d28c.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/company#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vbqdlksndo",
+      "Integrity": "i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
@@ -15577,6 +15619,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.js",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5ptu6j1567-vbqdlksndo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001355013550"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.js",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.js.gz",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5ptu6j1567-vbqdlksndo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.vbqdlksndo.js",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5ptu6j1567-vbqdlksndo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001355013550"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbqdlksndo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/company.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.vbqdlksndo.js",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2135"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbqdlksndo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/company.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i0uz9TrmDGw+bUfLackgl0TItobY8ThUesPBLYoGh/E="
+        }
+      ]
+    },
+    {
+      "Route": "js/company.vbqdlksndo.js.gz",
+      "AssetFile": "D:\\Projects\\Bulky\\BulkyWeb\\obj\\Debug\\net9.0\\compressed\\5ptu6j1567-vbqdlksndo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 17:21:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbqdlksndo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/company.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yHroGtAwMmNE1ObC4xC7ClZdr+/fVRTIrjPT9jGHewI="
         }
       ]
     },
